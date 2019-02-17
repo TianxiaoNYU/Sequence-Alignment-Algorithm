@@ -1,1 +1,1 @@
-# Sequence-Alignment-Algorithm
+### Implement the sequence alignment algorithm
